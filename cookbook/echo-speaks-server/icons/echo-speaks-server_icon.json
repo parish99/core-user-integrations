@@ -1,0 +1,16 @@
+{
+    "name": "echo-speaks-server",
+    "license": {
+        "title": "CC BY-SA 4.0",
+        "spdx": "CC-BY-SA-4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "author": {
+        "name": "Donnnno",
+        "url": "https://github.com/Donnnno/Arcticons"
+    },
+    "github_repo": "https://github.com/Donnnno/Arcticons",
+    "url": "https://icon-sets.iconify.design/arcticons/amazon-alexa/",
+    "modified": false,
+    "minimum_height": 16
+}
